@@ -1,4 +1,5 @@
 # P1.---Ejercicios-de-Arreglos
+
 Ejercicio 1. 
 Se necesita un programa que utilice un
 arreglo de seis posiciones para
