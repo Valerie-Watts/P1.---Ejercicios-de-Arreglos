@@ -1,0 +1,7 @@
+D:\Users\valer\OneDrive\Escritorio\Ejercicio estructura de datos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+D:\Users\valer\OneDrive\Escritorio\Ejercicio estructura de datos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+D:\Users\valer\OneDrive\Escritorio\Ejercicio estructura de datos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+D:\Users\valer\OneDrive\Escritorio\Ejercicio estructura de datos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+D:\Users\valer\OneDrive\Escritorio\Ejercicio estructura de datos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+D:\Users\valer\OneDrive\Escritorio\Ejercicio estructura de datos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+D:\Users\valer\OneDrive\Escritorio\Ejercicio estructura de datos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
